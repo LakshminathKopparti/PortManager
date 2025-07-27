@@ -40,6 +40,7 @@ Each test case directory contains:
 
 2. Run the scheduler with test data:
    ```bash
+   ./validation.out
    ./scheduler.out
    ```
 
